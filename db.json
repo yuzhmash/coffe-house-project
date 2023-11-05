@@ -1,0 +1,40 @@
+{
+    "ListOfBest": [
+        {"src": "img/solimo-coffe.png", "title": "Solimo Coffee Beans 2 kg", "price": "10.73$"},
+        {"src": "img/presto-coffe.png", "title": "Presto Coffee Beans 1 kg", "price": "15.99$"},
+        {"src": "img/aromistico-coffe.png", "title": "AROMISTICO Coffee 1 kg", "price": "6.99$"}
+    ],
+    "OurCoffe": {
+        "header": {
+            "title": "Our Coffee"
+        }
+    },
+    "mainData": {
+        "ourBest": {
+            "info": [
+                {"title": "About our beans", "src": "img/our-coffe-img.jpg", "alt": "coffe-img", "descr": "Extremity sweetness difficult behaviour he of. On disposal of as landlord horrible.<br/><br/> Afraid at highly months do things on at. Situation <br/> recommend objection do intention <br/> so questions. <br/> As greatly removed calling pleased improve an. <br/> Last ask him cold feel <br/> met spot shy want. <br/> Children me laughing we <br/> prospect answered followed. At it went <br/> is song that held help face."}
+            ],
+            "cards": [
+                {"src": "img/assortment-coffe.png", "alt": "assortment img", "title": "AROMISTICO Coffee 1 kg", "name": "Brazil", "pric": "6.99$", "id": 1},
+                {"src": "img/assortment-coffe.png", "alt": "assortment img", "title": "AROMISTICO Coffee 1 kg", "name": "Kenya", "pric": "6.99$", "id": 2},
+                {"src": "img/assortment-coffe.png", "alt": "assortment img", "title": "AROMISTICO Coffee 1 kg", "name": "Columbia", "pric": "6.99$", "id": 3},
+                {"src": "img/assortment-coffe.png", "alt": "assortment img", "title": "AROMISTICO Coffee 1 kg", "name": "Brazil", "pric": "6.99$", "id": 4},
+                {"src": "img/assortment-coffe.png", "alt": "assortment img", "title": "AROMISTICO Coffee 1 kg", "name": "Brazil", "pric": "6.99$", "id": 5},
+                {"src": "img/assortment-coffe.png", "alt": "assortment img", "title": "AROMISTICO Coffee 1 kg", "name": "Columbia", "pric": "6.99$", "id": 6}
+            ]
+        },
+        "forPleasure": {
+            "info": [
+                {"title": "About our goods", "src": "img/for-pleasure.png", "alt": "coffe-img", "descr": "Extremity sweetness difficult behaviour he of. On disposal of as landlord horrible.<br/><br/> Afraid at highly months do things on at. Situation <br/> recommend objection do intention <br/> so questions. <br/> As greatly removed calling pleased improve an. <br/> Last ask him cold feel <br/> met spot shy want. <br/> Children me laughing we <br/> prospect answered followed. At it went <br/> is song that held help face."}
+            ],
+            "cards": [
+                {"src": "img/assortment-coffe.png", "alt": "assortment img", "title": "AROMISTICO Coffee 1 kg", "name": "Brazil", "pric": "6.99$", "id": 1},
+                {"src": "img/assortment-coffe.png", "alt": "assortment img", "title": "AROMISTICO Coffee 1 kg", "name": "Kenya", "pric": "6.99$", "id": 2},
+                {"src": "img/assortment-coffe.png", "alt": "assortment img", "title": "AROMISTICO Coffee 1 kg", "name": "Columbia", "pric": "6.99$", "id": 3},
+                {"src": "img/assortment-coffe.png", "alt": "assortment img", "title": "AROMISTICO Coffee 1 kg", "name": "Mine", "pric": "6.99$", "id": 4},
+                {"src": "img/assortment-coffe.png", "alt": "assortment img", "title": "AROMISTICO Coffee 1 kg", "name": "Columbia", "pric": "6.99$", "id": 5},
+                {"src": "img/assortment-coffe.png", "alt": "assortment img", "title": "AROMISTICO Coffee 1 kg", "name": "Kenya", "pric": "6.99$", "id": 6}
+            ]
+        }
+    }
+}
