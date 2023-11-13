@@ -32,7 +32,7 @@ const MainContent = ({ourCoffe, src, title, alt, cards, onFilterSelect, onSearch
         )
     } else {
         return (
-            <main id={title}>
+            <main >
                 <section className="container descr">
                     <div className="descr__wrapper">
                         <div className="descr__img"><img src={src} alt={alt}/></div>
